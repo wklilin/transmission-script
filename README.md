@@ -1,0 +1,2 @@
+# transmission-script
+transmission centos
